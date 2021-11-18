@@ -1,4 +1,6 @@
-### Hi there 👋
+### Zonk Strategies
+
+![image](https://user-images.githubusercontent.com/94076881/142484802-88fc69d7-c88d-433f-97aa-d828e4203f4f.png)
 
 <!--
 **Brian-Kozub-Purple/Brian-Kozub-Purple** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
